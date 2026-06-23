@@ -3,7 +3,7 @@
 
 # Hi, I'm Silunya Jayasinghe 👋
 
-🔐 Cybersecurity Undergraduate | 💻 Software Developer | ☁️ Cloud Security Enthusiast
+🔐 Cybersecurity Undergraduate | 💻 Software Developer 
 
 I'm a Cybersecurity undergraduate passionate about protecting digital systems, exploring security technologies, and building secure software solutions. While cybersecurity is my primary focus, I also enjoy software engineering and web development, allowing me to approach problems from both the security and development perspectives.
 
