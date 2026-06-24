@@ -63,7 +63,7 @@ I'm a Cybersecurity undergraduate passionate about protecting digital systems, e
 ## 🌐 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/silunya-jayasinghe-387060277
-- GitHub: https://github.com/svihijayasinghe15-sudo/-svihijayasinghe15-sudo
+- GitHub: https://github.com/svihijayasinghe15-sudo?tab=repositories
 
 ## 📫 Open to Opportunities
 
